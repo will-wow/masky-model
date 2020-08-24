@@ -1,0 +1,6 @@
+lambda-stack-without-tensorflow
+model.h5
+tfjs_model
+.vscode
+.venv
+data/**/*.*
